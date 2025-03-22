@@ -7,7 +7,7 @@
 - 🐧 Kali Linux
 - 📺 Bleach is the Best Anime.
 
-📡 **Conecte-se comigo:**  
+📡 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/igor-ribeiro-14b80b1a2/) | [Portfólio](https://igorsampaioribeiro.netlify.app/) 
 
 Old profile
