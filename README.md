@@ -1,16 +1,13 @@
-## Hi there 👋
+### Red Team Enthusiast | Ethical Hacking | Bug Bounty
 
-<!--
-**ikenpachi/ikenpachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Cyber Security Red Team
+- 🖥️ Dev Backend 
+- 🐍 Python
+- 🎮 Gamer
+- 🐧 Kali Linux
+- 📺 Bleach is the Best Anime.
 
-Here are some ideas to get you started:
+📡 **Conecte-se comigo:**  
+[LinkedIn](https://www.linkedin.com/in/igor-ribeiro-14b80b1a2/) | [Portfólio](https://igorsampaioribeiro.netlify.app/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Brasil](https://cdn-icons-png.flaticon.com/24/197/197386.png) ![Portugal](https://cdn-icons-png.flaticon.com/24/197/197463.png)
