@@ -8,7 +8,7 @@
 - 📺 Bleach is the Best Anime.
 
 📡 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/igor-ribeiro-14b80b1a2/) | [Portfólio](https://igorsampaioribeiro.netlify.app/) 
+[LinkedIn](https://www.linkedin.com/in/igor-ribeiro-14b80b1a2/) | [Portfólio](https://ikenpachi.github.io/Portfolio-main/) 
 
 Old profile 
 [GitHub](https://github.com/igor-s-ribeiro)
