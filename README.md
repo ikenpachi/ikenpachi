@@ -13,5 +13,5 @@
 Old profile 
 [GitHub](https://github.com/igor-s-ribeiro)
 
-![Brasil](https://cdn-icons-png.flaticon.com/24/197/197386.png) ![Portugal](https://cdn-icons-png.flaticon.com/24/197/197463.png) ![UE](https://cdn-icons-png.flaticon.com/24/197/197615.png)
+![Brasil](https://cdn-icons-png.flaticon.com/24/197/197386.png) ![Portugal](https://cdn-icons-png.flaticon.com/24/197/197463.png) 
 
