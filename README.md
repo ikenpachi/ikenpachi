@@ -3,7 +3,7 @@
 - 🔥 Cyber Security Red Team
 - 🖥️ Dev Backend 
 - 🐍 Python
-- 🎮 Gamer (PC >>> Console)
+- 🎮 Gamer (PC >>>> Console)
 - 🐧 Kali Linux
 - 📺 Bleach is the Best Anime
 
