@@ -4,7 +4,7 @@
 - 🖥️ Dev Backend 
 - 🐍 Python
 - 🎮 Gamer (PC >>>> Console)
-- 🐧 Kali Linux
+- 🐧 Linux
 - 📺 Bleach is the Best Anime.
 
 📡 **Connect with me:**  
