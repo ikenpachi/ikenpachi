@@ -5,7 +5,7 @@
 - 🐍 Python
 - 🎮 Gamer (PC >>>> Console)
 - 🐧 Linux
-- 📺 Bleach is the Best Anime/
+- 📺 Bleach is the Best Anime
 
 📡 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/igor-ribeiro-14b80b1a2/) | [Portfólio](https://ikenpachi.github.io/Portfolio-main/) 
